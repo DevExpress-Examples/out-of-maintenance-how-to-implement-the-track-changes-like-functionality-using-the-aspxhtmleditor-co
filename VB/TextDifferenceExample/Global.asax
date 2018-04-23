@@ -1,0 +1,1 @@
+﻿<%@ Application Codebehind="Global.asax.vb" Inherits="TextDifferenceExample.Global_asax" Language="vb" %>
