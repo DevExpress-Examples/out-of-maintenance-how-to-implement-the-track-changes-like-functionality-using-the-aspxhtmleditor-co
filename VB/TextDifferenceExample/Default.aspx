@@ -1,6 +1,6 @@
 ﻿<%@ Page Language="vb" AutoEventWireup="true" CodeBehind="Default.aspx.vb" Inherits="TextDifferenceExample.Default" %>
 
-<%@ Register Assembly="DevExpress.Web.ASPxHtmlEditor.v15.2, Version=15.2.15.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxHtmlEditor" TagPrefix="dx" %>
+<%@ Register Assembly="DevExpress.Web.ASPxHtmlEditor.v15.2, Version=15.2.4.0, Culture=neutral, PublicKeyToken=b88d1754d700e49a" Namespace="DevExpress.Web.ASPxHtmlEditor" TagPrefix="dx" %>
 
 <!DOCTYPE html>
 
