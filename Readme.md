@@ -1,10 +1,10 @@
 <!-- default file list -->
 *Files to look at*:
 
-* [CheckedTextResult.aspx](./CS/TextDifferenceExample/CheckedTextResult.aspx) (VB: [CheckedTextResult.aspx.vb](./VB/TextDifferenceExample/CheckedTextResult.aspx.vb))
+* [CheckedTextResult.aspx](./CS/TextDifferenceExample/CheckedTextResult.aspx) (VB: [CheckedTextResult.aspx](./VB/TextDifferenceExample/CheckedTextResult.aspx))
 * [CheckedTextResult.aspx.cs](./CS/TextDifferenceExample/CheckedTextResult.aspx.cs) (VB: [CheckedTextResult.aspx.vb](./VB/TextDifferenceExample/CheckedTextResult.aspx.vb))
 * [diff_styles.css](./CS/TextDifferenceExample/Content/diff_styles.css)
-* **[Default.aspx](./CS/TextDifferenceExample/Default.aspx) (VB: [Default.aspx.vb](./VB/TextDifferenceExample/Default.aspx.vb))**
+* **[Default.aspx](./CS/TextDifferenceExample/Default.aspx) (VB: [Default.aspx](./VB/TextDifferenceExample/Default.aspx))**
 * [Default.aspx.cs](./CS/TextDifferenceExample/Default.aspx.cs) (VB: [Default.aspx.vb](./VB/TextDifferenceExample/Default.aspx.vb))
 <!-- default file list end -->
 # How to implement the track changes-like functionality using the ASPxHtmlEditor control
